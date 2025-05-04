@@ -3,6 +3,7 @@
 A full-stack web application for discovering, saving, and managing personal recipes.
 
 🌐 Live Website: [recipe-web-front.onrender.com](https://recipe-web-front.onrender.com/#/)
+Please note: The initial load may take a few seconds as the server starts up. Once loaded, the site will run smoothly.
 
 ---
 
